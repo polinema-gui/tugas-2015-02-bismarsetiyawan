@@ -1,0 +1,10 @@
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\bin\Debug\Kalkulator_bismar.exe.config
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\bin\Debug\Kalkulator_bismar.exe
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\bin\Debug\Kalkulator_bismar.pdb
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\bin\Debug\Kalkulator_bismar.xml
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.Form1.resources
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.Resources.resources
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.vbproj.GenerateResource.Cache
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.exe
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.xml
+E:\D3 M.I\semester 3\GUI\Kalkulator_bismar\Kalkulator_bismar\obj\Debug\Kalkulator_bismar.pdb
